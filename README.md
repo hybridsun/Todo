@@ -2,10 +2,10 @@
 
 ## features
 
-Show Task List
-Add the Task
-Delete the Task
-Check and uncheck Task\
+1.Show Task List
+2.Add the Task
+3.Delete the Task
+4.Mark Status (To-do, Completed, In-progress, Priority).
 
 ## Project setup
 ```
